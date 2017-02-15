@@ -1,3 +1,5 @@
+##Помощь Насти
+
 import re
 
 def readtext():
